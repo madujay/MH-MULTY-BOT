@@ -44,9 +44,9 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94721613510']
-global.ownertag = '94721613510' //ur tag number
-global.botnumber = '94721613510' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.ownertag = '94784254249' //ur tag number
+global.botnumber = '94784254249' //Add your Bot Number For Log
+global.botname = 'MADU-JAYI BETA EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
